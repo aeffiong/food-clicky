@@ -7,7 +7,7 @@ import './NavBar.css';
 
 const NavBar = props => (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
-  <a className="navbar-brand" href={"/"}>Clicky Game!</a>
+  <a className="navbar-brand" href={"/"}>Foodie Clicky Game!</a>
     <div>
   
     <ul className="navbar-nav">
