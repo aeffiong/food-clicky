@@ -1,0 +1,13 @@
+.bg-light {
+    background-color: teal !important;
+    color: white;
+    font-size: 20px;
+}
+a {
+    font-size: 30px;
+    color: white;
+}
+.navbar-brand {
+    font-size: 30px;
+    color: white;
+}
